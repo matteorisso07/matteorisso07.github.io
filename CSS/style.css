@@ -1,0 +1,202 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #004D98;
+    color: white;
+    margin: 0%;
+    padding: 0;
+}
+
+header {
+    background-color: #A50044;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.news {
+    background-color: #002D62;
+    padding: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.news_text {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+}
+
+.footer {
+    background-color: #A50044;
+    padding: 10px;
+    text-align: center;
+}
+.button{
+    background-color: #002D62;
+    color: white;
+    text-align: center;
+    width: 19%;
+    height: 50px ;
+    font-size: 200%;
+    font-family: "Lucida Console";
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border-style:ridge;
+    border-spacing: 3px;
+}
+
+.button:hover{
+    background-color: #003a7c;
+}
+
+
+.product img{
+    width: 250px;
+    height: 250px;
+    opacity: 0.7;
+}
+
+td{
+    padding: 5%;
+}
+
+.product img:hover{
+    opacity: 1;
+}
+
+i{
+    color: white;
+    font-size: 150px;
+}
+
+.article{
+    color: white;
+    margin: 0%;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#dif{
+    font-size: 230%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.prima img{
+    width: 624px;
+    height: 368px;  
+    opacity: 0.7;
+}
+
+.prima img:hover{
+    opacity: 1;
+}
+
+.trofei img{
+    width: 150px;
+    height: 160px;
+    opacity: 0.9;  
+}
+
+.trofei img:hover{
+    opacity: 1;
+}
+
+.diff img{
+    width: 230px;
+    height: 250px;
+    opacity: 0.7;
+}
+
+.diff img:hover{
+    opacity: 1;
+}
+
+.diff2 img{
+    width: 212px;
+    height: 250px;
+    opacity: 0.7;
+}
+
+.diff2 img:hover{
+    opacity: 1;
+}
+
+.titoli{
+    font-size: 230%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.fondazione img{
+    width: 400px;
+    height: 250px;
+    padding-left: 500px;
+    margin-top:-120px ;
+    margin-bottom: -70px;
+}
+
+.magliaV img{
+    width: 250px;
+    height: 250px;
+    padding-left: 550px;
+    margin-top:-120px ;
+    margin-bottom: -80px;
+}
+
+.laliga img{
+    width: 200px;
+    height: 100px;
+    padding-left: 0px;
+    margin-top:-80px ;
+    margin-bottom: -30px;
+    opacity: 0.7;
+}
+
+.laliga img:hover{
+    opacity: 1;
+}
+
+
+.registra{
+    margin-top:200px ;
+    margin-bottom: 200px;
+}
+
+.giocatori img{
+    width: 231px;
+    height: 350px;
+    opacity: 0.7;
+}
+
+.giocatori img:hover{
+    opacity: 1;
+}
+
+.login{
+    float: right;
+    width: 1.5%;
+}
+
+.primaMasi img{
+    width: 624px;
+    height: 368px;  
+ 
+}
+
+
